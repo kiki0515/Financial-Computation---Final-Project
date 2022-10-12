@@ -4,6 +4,7 @@
 
 In this project, our team investigated the relationship between Russell 3000 stocks’ earning surprise percentage and their CAAR (Cumulative Average Abnormal Return) based on IWV benchmark before and after the earning announcement date. We divided all Russell 3000 stocks equally into 3 groups (beat, meet and miss) according to their earning surprise percentage and implemented bootstrapping 40 times with batch size 80 to all 3 groups. We found that in general, stocks with higher surprise percentage would have higher CAAR after earning announcement date.
 
+Authors: Kaiyun K., Lulin W., Qinkai Y., Yiyao Li., Zhuoran M
 
 ### Project Design Flow Chart
 ![image](https://user-images.githubusercontent.com/89110858/195433029-a5084cb5-c278-435b-acca-0c11675c8826.png)
@@ -30,4 +31,4 @@ Our group concluded that: earning releases of Russell 3000 stocks have a huge im
 
 ![image](https://user-images.githubusercontent.com/89110858/195433530-c53a3b36-9aed-40be-8638-df15a035bba3.png)
 
-Authors: Kaiyun K., Lulin W., Qinkai Y., Yiyao Li., Zhuoran M
+
