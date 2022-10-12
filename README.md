@@ -30,4 +30,4 @@ Our group concluded that: earning releases of Russell 3000 stocks have a huge im
 
 ![image](https://user-images.githubusercontent.com/89110858/195433530-c53a3b36-9aed-40be-8638-df15a035bba3.png)
 
-
+Authors: Kaiyun K., Lulin W., Qinkai Y., Yiyao Li., Zhuoran M
