@@ -13,9 +13,9 @@ In this project, our team investigated the relationship between Russell 3000 sto
 ### This program is able to:
 o Retrieve historical price data for all selected stocks. Parse the retrieved data for dates and adjusted closing prices.  
 o Based on the 2nd quarter of 2021 earnings announcement for Russell 3000 stocks (See the Earnings Announcements sheet), sort all the surprise% in ascending order, and split all the stocks into 3 groups with relatively equivalent numbers of stocks:  
-    i. Highest surprise group: Beat Estimate Group  
-    ii. Lowest surprise group: Miss Estimate Group  
-    iii. The rest stocks in between: Meet Estimate Group  
+   >> i. Highest surprise group: Beat Estimate Group  
+   >> ii. Lowest surprise group: Miss Estimate Group  
+   >> iii. The rest stocks in between: Meet Estimate Group  
 o Calculate AAR, AAR-STD, CAAR, CAAR-STD for each group by implementing bootstrapping  
 o Populate the stock maps and AAR/CAAR matrix  
 o Show the gnuplot graph with CAAR for all 3 groups  
